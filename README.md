@@ -2,6 +2,7 @@
 
 📊 Data Visualization
 This repository contains hands-on data visualization practice using Python, Pandas, Matplotlib, and Seaborn. The project focuses on analyzing a dataset and creating meaningful visualizations to understand customer behavior, spending patterns, and demographic insights.
+
 🎯 Project Objectives
 
 Learn and practice data visualization techniques
